@@ -9,6 +9,7 @@ A collection of classic algorithm and logic problems solved in pure Python — n
 | File | What it does |
 |------|-------------|
 | `armstrong_number_checker.py` | Checks if a number is an Armstrong number |
+| `bubble_sort.py` | Sorts a list of integers in ascending or descending order using bubble sort |
 | `caesar_cipher.py` | Encrypts text using a Caesar cipher shift |
 | `collatz_conjecture.py` | Generates the Collatz sequence for a number |
 | `narcissistic_number_finder.py` | Finds all narcissistic numbers up to 10,000 |
